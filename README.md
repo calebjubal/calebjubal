@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with ... php
 - 💬 Ask me about ... C++ (DSA)
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/caleb-chandrasekar-b8521026b/">LinkedIn</a>
-- ⚡ Fun fact: ... Likes coffee, Loves watching Movies, Reads the Bible
+- ⚡ Fun fact: ... Likes coffee, Loves watching Movies
